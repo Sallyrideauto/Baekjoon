@@ -4,11 +4,14 @@
 
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+* 메모리: 30840 KB
+* 시간: 68 ms
 
 ### 분류
 
-사칙연산(arithmetic), 구현(implementation), 수학(math)
+* 사칙연산(arithmetic)
+* 구현(implementation)
+* 수학(math)
 
 ### 문제 설명
 
