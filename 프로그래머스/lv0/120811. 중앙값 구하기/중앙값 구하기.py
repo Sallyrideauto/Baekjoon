@@ -1,3 +1,5 @@
+# https://www.delftstack.com/ko/howto/python/find-median-in-python/
+
 import statistics
 
 def solution(array):
