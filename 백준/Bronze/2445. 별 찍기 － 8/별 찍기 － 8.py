@@ -1,6 +1,6 @@
 # https://blog.naver.com/nkj2001/222698193629
 # https://songsw.tistory.com/30
-# 출력 형식에 대한 학습 필ㅑ
+# 출력 형식에 대한 학습 필요
 
 N = int(input())
 
