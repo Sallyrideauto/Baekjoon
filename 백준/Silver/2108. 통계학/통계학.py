@@ -35,3 +35,10 @@ print(mode_value)
 # 범위 구하기
 range_value = max(arr) - min(arr)
 print(range_value)
+
+
+"""
+이 코드는 입력값을 받을 때 sys.stdin.readline() 함수를 사용하므로 더 빠르게 입력을 처리할 수 있습니다. 
+또한, collections 모듈의 Counter 클래스를 사용하여 리스트에 있는 각 요소들의 빈도수를 딕셔너리 형태로 계산할 수 있습니다. 
+이를 활용하여 최빈값을 구하였습니다.
+"""
