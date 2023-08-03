@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 10.2 MB, 시간: 0.00 ms
+메모리: 33.5 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -12,56 +12,56 @@
 
 ### 채점결과
 
-<br/>정확성: 100.0<br/>합계: 100.0 / 100.0
+Empty
 
 ### 문제 설명
 
-<p style="user-select: auto;">머쓱이는 할머니께 생신 축하 편지를 쓰려고 합니다. 할머니가 보시기 편하도록 글자 한 자 한 자를 가로 2cm 크기로 적으려고 하며, 편지를 가로로만 적을 때, 축하 문구 <code style="user-select: auto;">message</code>를 적기 위해 필요한 편지지의 최소 가로길이를 return 하도록 solution 함수를 완성해주세요.</p>
+<p>머쓱이는 할머니께 생신 축하 편지를 쓰려고 합니다. 할머니가 보시기 편하도록 글자 한 자 한 자를 가로 2cm 크기로 적으려고 하며, 편지를 가로로만 적을 때, 축하 문구 <code>message</code>를 적기 위해 필요한 편지지의 최소 가로길이를 return 하도록 solution 함수를 완성해주세요.</p>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">제한사항</h5>
+<h5>제한사항</h5>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;">공백도 하나의 문자로 취급합니다.</li>
-<li style="user-select: auto;">1 ≤ message의 길이 ≤ 50</li>
-<li style="user-select: auto;">편지지의 여백은 생각하지 않습니다.</li>
-<li style="user-select: auto;"><code style="user-select: auto;">message</code>는 영문 알파벳 대소문자, ‘!’, ‘~’ 또는 공백으로만 이루어져 있습니다.</li>
+<ul>
+<li>공백도 하나의 문자로 취급합니다.</li>
+<li>1 ≤ message의 길이 ≤ 50</li>
+<li>편지지의 여백은 생각하지 않습니다.</li>
+<li><code>message</code>는 영문 알파벳 대소문자, ‘!’, ‘~’ 또는 공백으로만 이루어져 있습니다.</li>
 </ul>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">입출력 예</h5>
-<table class="table" style="user-select: auto;">
-        <thead style="user-select: auto;"><tr style="user-select: auto;">
-<th style="user-select: auto;">message</th>
-<th style="user-select: auto;">result</th>
+<h5>입출력 예</h5>
+<table class="table">
+        <thead><tr>
+<th>message</th>
+<th>result</th>
 </tr>
 </thead>
-        <tbody style="user-select: auto;"><tr style="user-select: auto;">
-<td style="user-select: auto;">"happy birthday!"</td>
-<td style="user-select: auto;">30</td>
+        <tbody><tr>
+<td>"happy birthday!"</td>
+<td>30</td>
 </tr>
-<tr style="user-select: auto;">
-<td style="user-select: auto;">"I love you~"</td>
-<td style="user-select: auto;">22</td>
+<tr>
+<td>"I love you~"</td>
+<td>22</td>
 </tr>
 </tbody>
       </table>
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">입출력 예 설명</h5>
+<h5>입출력 예 설명</h5>
 
-<p style="user-select: auto;">입출력 예 #1</p>
+<p>입출력 예 #1</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">message</code>의 글자 수가 15개로 최소 가로 30cm의 편지지가 필요합니다.</li>
+<ul>
+<li><code>message</code>의 글자 수가 15개로 최소 가로 30cm의 편지지가 필요합니다.</li>
 </ul>
 
-<p style="user-select: auto;">입출력 예 #2</p>
+<p>입출력 예 #2</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">message</code>의 글자 수가 11개로 최소 가로 22cm의 편지지가 필요합니다.</li>
+<ul>
+<li><code>message</code>의 글자 수가 11개로 최소 가로 22cm의 편지지가 필요합니다.</li>
 </ul>
 
 
