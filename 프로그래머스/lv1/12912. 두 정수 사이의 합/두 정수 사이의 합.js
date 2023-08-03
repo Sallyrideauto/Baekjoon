@@ -1,0 +1,17 @@
+// https://choijying21.tistory.com/22
+
+function solution(a, b) {
+    var answer = 0;
+    
+    if (a <= b) {
+        for (let i = a; i <= b; i++) {
+            answer += i
+        }
+    } else {
+        for (let i = b; i <= a; i++) {
+            answer += i
+        }
+    }
+    
+    return answer;
+}
