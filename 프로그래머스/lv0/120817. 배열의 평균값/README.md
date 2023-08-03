@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.01 ms
+메모리: 33.4 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -12,55 +12,55 @@
 
 ### 채점결과
 
-<br/>정확성: 100.0<br/>합계: 100.0 / 100.0
+Empty
 
 ### 문제 설명
 
-<p style="user-select: auto;">정수 배열 <code style="user-select: auto;">numbers</code>가 매개변수로 주어집니다. <code style="user-select: auto;">numbers</code>의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.</p>
+<p>정수 배열 <code>numbers</code>가 매개변수로 주어집니다. <code>numbers</code>의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.</p>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">제한사항</h5>
+<h5>제한사항</h5>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;">0 ≤ <code style="user-select: auto;">numbers</code>의 원소 ≤ 1,000</li>
-<li style="user-select: auto;">1 ≤ <code style="user-select: auto;">numbers</code>의 길이 ≤ 100</li>
-<li style="user-select: auto;">정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다. </li>
+<ul>
+<li>0 ≤ <code>numbers</code>의 원소 ≤ 1,000</li>
+<li>1 ≤ <code>numbers</code>의 길이 ≤ 100</li>
+<li>정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다. </li>
 </ul>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">입출력 예</h5>
-<table class="table" style="user-select: auto;">
-        <thead style="user-select: auto;"><tr style="user-select: auto;">
-<th style="user-select: auto;">numbers</th>
-<th style="user-select: auto;">result</th>
+<h5>입출력 예</h5>
+<table class="table">
+        <thead><tr>
+<th>numbers</th>
+<th>result</th>
 </tr>
 </thead>
-        <tbody style="user-select: auto;"><tr style="user-select: auto;">
-<td style="user-select: auto;">[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</td>
-<td style="user-select: auto;">5.5</td>
+        <tbody><tr>
+<td>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</td>
+<td>5.5</td>
 </tr>
-<tr style="user-select: auto;">
-<td style="user-select: auto;">[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]</td>
-<td style="user-select: auto;">94.0</td>
+<tr>
+<td>[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]</td>
+<td>94.0</td>
 </tr>
 </tbody>
       </table>
-<hr style="user-select: auto;">
+<hr>
 
-<h5 style="user-select: auto;">입출력 예 설명</h5>
+<h5>입출력 예 설명</h5>
 
-<p style="user-select: auto;">입출력 예 #1</p>
+<p>입출력 예 #1</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">numbers</code>의 원소들의 평균 값은 5.5입니다.</li>
+<ul>
+<li><code>numbers</code>의 원소들의 평균 값은 5.5입니다.</li>
 </ul>
 
-<p style="user-select: auto;">입출력 예 #2</p>
+<p>입출력 예 #2</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">numbers</code>의 원소들의 평균 값은 94.0입니다.</li>
+<ul>
+<li><code>numbers</code>의 원소들의 평균 값은 94.0입니다.</li>
 </ul>
 
 
