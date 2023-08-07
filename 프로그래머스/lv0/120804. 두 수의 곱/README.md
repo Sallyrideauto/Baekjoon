@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.00 ms
+메모리: 33.5 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -12,57 +12,57 @@
 
 ### 채점결과
 
-<br/>정확성: 100.0<br/>합계: 100.0 / 100.0
+Empty
 
 ### 문제 설명
 
-<p style="user-select: auto;">정수 <code style="user-select: auto;">num1</code>, <code style="user-select: auto;">num2</code>가 매개변수 주어집니다. <code style="user-select: auto;">num1</code>과 <code style="user-select: auto;">num2</code>를 곱한 값을 return 하도록 solution 함수를 완성해주세요.</p>
+<p>정수 <code>num1</code>, <code>num2</code>가 매개변수 주어집니다. <code>num1</code>과 <code>num2</code>를 곱한 값을 return 하도록 solution 함수를 완성해주세요.</p>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h4 style="user-select: auto;">제한사항</h4>
+<h4>제한사항</h4>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;">0 ≤ <code style="user-select: auto;">num1</code> ≤ 100</li>
-<li style="user-select: auto;">0 ≤ <code style="user-select: auto;">num2</code> ≤ 100</li>
+<ul>
+<li>0 ≤ <code>num1</code> ≤ 100</li>
+<li>0 ≤ <code>num2</code> ≤ 100</li>
 </ul>
 
-<hr style="user-select: auto;">
+<hr>
 
-<h4 style="user-select: auto;">입출력 예</h4>
-<table class="table" style="user-select: auto;">
-        <thead style="user-select: auto;"><tr style="user-select: auto;">
-<th style="user-select: auto;">num1</th>
-<th style="user-select: auto;">num2</th>
-<th style="user-select: auto;">result</th>
+<h4>입출력 예</h4>
+<table class="table">
+        <thead><tr>
+<th>num1</th>
+<th>num2</th>
+<th>result</th>
 </tr>
 </thead>
-        <tbody style="user-select: auto;"><tr style="user-select: auto;">
-<td style="user-select: auto;">3</td>
-<td style="user-select: auto;">4</td>
-<td style="user-select: auto;">12</td>
+        <tbody><tr>
+<td>3</td>
+<td>4</td>
+<td>12</td>
 </tr>
-<tr style="user-select: auto;">
-<td style="user-select: auto;">27</td>
-<td style="user-select: auto;">19</td>
-<td style="user-select: auto;">513</td>
+<tr>
+<td>27</td>
+<td>19</td>
+<td>513</td>
 </tr>
 </tbody>
       </table>
-<hr style="user-select: auto;">
+<hr>
 
-<h4 style="user-select: auto;">입출력 예 설명</h4>
+<h4>입출력 예 설명</h4>
 
-<p style="user-select: auto;">입출력 예 #1</p>
+<p>입출력 예 #1</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">num1</code>이 3, <code style="user-select: auto;">num2</code>가 4이므로 3 * 4 = 12를 return합니다.</li>
+<ul>
+<li><code>num1</code>이 3, <code>num2</code>가 4이므로 3 * 4 = 12를 return합니다.</li>
 </ul>
 
-<p style="user-select: auto;">입출력 예 #2</p>
+<p>입출력 예 #2</p>
 
-<ul style="user-select: auto;">
-<li style="user-select: auto;"><code style="user-select: auto;">num1</code>이 27, <code style="user-select: auto;">num2</code>가 19이므로 27 * 19 = 513을 return합니다.</li>
+<ul>
+<li><code>num1</code>이 27, <code>num2</code>가 19이므로 27 * 19 = 513을 return합니다.</li>
 </ul>
 
 
